@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": "2051a1a0-e30d-1e8a-886a-8b02cc5818dc",
+            "email": "at1@gmail.com",
+            "password": "123123"
+        }
+    ],
+    "adm_users": [
+        {
+            "id": "333b65c0-e3d1-1e8a-886a-8b02cc5818dc",
+            "email": "terminal1@gmail.com",
+            "password": "123123"
+        }
+    ],
+    "attendantDeskAssignment": [],
+    "patients": [],
+    "patientInformationForm": [],
+    "painelCheckin": []
+}
